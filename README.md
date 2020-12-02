@@ -1,7 +1,7 @@
 # Optimal-state-estimation
 Optimal state estimation in robotics
 本文来源于：https://zhuanlan.zhihu.com/p/37319831
-                    
+  https://academic.csuohio.edu/simond/                  
 全文摘自西蒙教授的主页内容，google自动翻译。可能会有个别错误。英文OK，请看原文。Optimal State Estimation：Kalman，H-infinity，and Nonlinear Approaches，John Wiley＆Sons，2006。在过去的20年中，我学习了所有关于状态估计的知识，并将其写入本书。我喜欢一步一步的解释，所以这就是我写这本书的方式。我试图说清楚，但也包括最近的研究成果，所以它在既有技术和前沿研究方面有很好的平衡。它包括89个实例，176个书面练习和52个电脑练习。32个计算机例子的 Matlab代码可以从这个网站下载。该书有381篇参考文献，从20世纪20年代的历史参考文献到2006年发表的论文都有详细记录。
 
 概观
